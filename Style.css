@@ -4,9 +4,9 @@
 }
 #navbar{
   hight:50px;
-  width:50px;
+  wight:50px;
   background-color:black;
-  display:inline;
+  
 }
 a  {
    height:10px;
@@ -15,7 +15,7 @@ a  {
    margin:10px;
    padding:10px;
    color:white;
-
+   display:inline;
   
   }
 ul{
