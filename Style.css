@@ -8,13 +8,16 @@
   background-color:black;
   display:inline;
 }
-ul,a  {
+a  {
    height:10px;
    width:10px;
    text-decoratoin:none;
    margin:10px;
    padding:10px;
    color:white;
-  background-color:black;
-  text-style:none;
+
+  
   }
+ul{
+  text-style:none;
+}
