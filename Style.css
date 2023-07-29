@@ -1,1 +1,19 @@
-
+*{
+  margin:0;
+  padding:0;
+}
+#navbar{
+  hight:50px;
+  width:50px;
+  background-color:red;
+  
+}
+a  {
+   height:2px;
+   width:2px;
+   display:flux;
+   margin:2px;
+   padding:2px;
+   color:white;
+  background-color:black;
+  }
