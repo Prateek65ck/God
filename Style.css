@@ -3,17 +3,17 @@
   padding:0;
 }
 #navbar{
-  hight:80px;
+  hight:50px;
   width:50px;
   background-color:black;
   display:inline;
 }
 ul,a  {
    height:10px;
-   width:5px;
+   width:10px;
    text-decoratoin:none;
-   margin:19px;
-   padding:2px;
+   margin:10px;
+   padding:10px;
    color:white;
   background-color:black;
   text-style:none;
