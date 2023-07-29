@@ -3,14 +3,14 @@
   padding:0;
 }
 #navbar{
-  hight:50px;
+  hight:27px;
   
   background-color:black;
   display:inline;
 }
 a  {
    height:2px;
-   width:4px;
+   width:2px;
    text-decoratoin:none;
    margin:5px;
    
