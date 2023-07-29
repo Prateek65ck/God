@@ -5,15 +5,15 @@
 #navbar{
   hight:27px;
   
-  background-color:black;
+  background-color:red;
   display:inline;
+  border:2px soild black;
 }
 a  {
    height:2px;
    width:2px;
    text-decoratoin:none;
-   margin:5px;
-   
+   margin:3px;
    color:white;
    
   
