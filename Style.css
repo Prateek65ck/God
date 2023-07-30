@@ -4,20 +4,15 @@
 }
 #navbar{
   hight:27px;
-  
   background-color:red;
   display:inline;
   border:2px soild black;
 }
 a  {
    height:2px;
-   
    text-decoratoin:none;
    margin:3px;
    color:white;
-   
+   display:inline;
   
   }
-ul{
-  text-style:none;
-}
